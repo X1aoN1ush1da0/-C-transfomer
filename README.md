@@ -1,5 +1,6 @@
 ﻿# 用C语言从零手写transformer
-by Lv
+by Lv<br>
+
 这是我一个的练手项目，纯手搓。主要目的是为了学习transformer的底层知识并且练习C语言。
 
 本项目用C语言完成了：
